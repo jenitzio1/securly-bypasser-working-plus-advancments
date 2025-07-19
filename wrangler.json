@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "securly-bypasser-working-plus-advancments",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "042d5be8-5d5d-496d-93e3-0a3377759e9b",
+      "database_name": "securly-bypasser-working-plus-advancments"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
